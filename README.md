@@ -11,7 +11,9 @@ I'm Deniz Edizcan, a passionate software developer and enthusiast about technolo
 
 ---
 
+#### Most Used Languages:
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=denizedizcan)
 
 ---
 
