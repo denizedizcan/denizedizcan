@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Deniz Edizcan</h1>
 <h3 align="center">A passionate Software developer from Turkey</h3>
 
-- 🌱 I’m currently learning **SwiftUI**
+- 🌱 I’m currently learning **Flutter**
 
 - 📫 How to reach me **edizcandeniz@hotmail.com**
 
